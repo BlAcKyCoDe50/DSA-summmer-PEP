@@ -1,3 +1,5 @@
+//find the target element in the array if found return index
+//and if not found insert it at the correct position
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
